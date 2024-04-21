@@ -1,0 +1,4 @@
+# Required items to be installed
+yagmail~=0.15.293
+keyring~=25.1.0
+PyQt5~=5.15.9
